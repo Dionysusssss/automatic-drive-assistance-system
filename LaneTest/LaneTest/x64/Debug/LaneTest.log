@@ -1,0 +1,10 @@
+﻿  Test.cpp
+h:\应用程序\lanetest\lanetest\test.cpp(85): error C2065: “vector”: 未声明的标识符
+h:\应用程序\lanetest\lanetest\test.cpp(85): error C2275: “cv::Vec4i”: 将此类型用作表达式非法
+  f:\opencv\build\include\opencv2\core\matx.hpp(410): note: 参见“cv::Vec4i”的声明
+h:\应用程序\lanetest\lanetest\test.cpp(85): error C2065: “lines”: 未声明的标识符
+h:\应用程序\lanetest\lanetest\test.cpp(86): error C2065: “lines”: 未声明的标识符
+h:\应用程序\lanetest\lanetest\test.cpp(87): error C2065: “lines”: 未声明的标识符
+h:\应用程序\lanetest\lanetest\test.cpp(89): error C2065: “lines”: 未声明的标识符
+h:\应用程序\lanetest\lanetest\test.cpp(90): error C2065: “CV_AA”: 未声明的标识符
+h:\应用程序\lanetest\lanetest\test.cpp(106): error C2065: “CV_BGR2GRAY”: 未声明的标识符
